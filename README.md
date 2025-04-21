@@ -23,3 +23,12 @@ Emergency Departments around the world suffer from overcrowding and long patient
 - Missing value imputation
 - One-hot encoding
 - Feature scaling
+
+## Web Application
+
+We have developed a simple and user-friendly web application to demonstrate the use of the model in real-time hospital admission prediction. It allows healthcare professionals to input patient information and get an admission prediction instantly.
+
+You can download the models using the G-Drive link provided in App folder and can run the app locally:
+
+```bash
+streamlit run capstone_app.py
