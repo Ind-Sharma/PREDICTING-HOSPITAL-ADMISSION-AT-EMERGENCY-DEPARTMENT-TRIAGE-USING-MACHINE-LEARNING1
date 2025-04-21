@@ -1,5 +1,5 @@
 # PREDICTING-HOSPITAL-ADMISSION-AT-EMERGENCY-DEPARTMENT-TRIAGE-USING-MACHINE-LEARNING
-This project aims to improve emergency department workflows by predicting patient admissions at the triage stage using machine learning models. By accurately forecasting admissions, hospitals can better prioritize patients and manage limited resources more efficiently.
+This project aims to improve emergency department workflows by predicting patient admissions using machine learning models. By accurately forecasting admissions, hospitals can better prioritize patients and manage limited resources more efficiently.
 
 ## Problem Statement
 
